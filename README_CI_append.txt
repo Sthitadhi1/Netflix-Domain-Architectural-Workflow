@@ -1,0 +1,1 @@
+**CI**: A GitHub Actions workflow has been added at `.github/workflows/maven.yml` to run the Maven build and tests on push and pull requests. If you push this repository to GitHub, the workflow will run automatically.
